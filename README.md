@@ -16,12 +16,25 @@ Player can control up to 3 turrets to fight against enemies. There are 5 stages 
 <br>
 The 1st campaign has a few types of enemies: Fighters, Frigates, Cruisers, Cruisers and Suiciders.<br> 
 Each enemy type has its own weapons, logic and behaviour. Same with b osses.<br>
-![image](https://user-images.githubusercontent.com/101559700/167636112-cd5e17be-786c-4da5-b18f-f2dbce3d3d5b.png)
+![Zorg boss](https://user-images.githubusercontent.com/101559700/167636112-cd5e17be-786c-4da5-b18f-f2dbce3d3d5b.png)
 
 ## 2st campaign<br>
 This mode has slightly different gameplay than the 1st campaign. <br>
-The Player defends the ship. Ship consists of different modules, each module has its own turret spots.<br> 
-Turret spots can be controlled by AI or by the player.<br>
+The Player defends the space ship. Ship consists of different modules, each module has its own turret spots. Player can purchase, sell or swap ship modules.<br>
+![image](https://user-images.githubusercontent.com/101559700/167655957-650f3d70-35aa-4108-a02c-146320484e95.png)
+<br>
+Turret spots can be controlled by AI or by the player. The player can set target priorities for AI on each turret.<br>
+![image](https://user-images.githubusercontent.com/101559700/167656665-91fb7906-1d64-406f-b05b-1ce84dfb0d9a.png)
+<br>
+Also the player controls the ship power system. The ship's power system supplies three subsystems: damage system, repair system and cooling system.<br>
+![image](https://user-images.githubusercontent.com/101559700/167657344-ed9e600f-a108-4be1-a162-7d962f7e12cd.png)
+<br>
+the player starts the game in the safe zone - in hyperdrive. There the player can purchase or upgrade turrets, manage power of the ship system or purchase, sell and manage ship modules. There are three types of modules: front, middle and back modules.
+![image](https://user-images.githubusercontent.com/101559700/167658379-156eb29d-381e-45a2-a0bf-e8ec63845e79.png)
+<br>
+Heavily damaged modules have visual damages: scratches and plating damages. If a module is destroyed, all turrets on that module will stop working.
+![image](https://user-images.githubusercontent.com/101559700/167660311-84cf2518-2dae-4b79-918f-5e44da83580a.png)
+
 
 ## Multiplayer<br>
 
