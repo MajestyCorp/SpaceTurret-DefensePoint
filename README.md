@@ -13,6 +13,8 @@ Player can control up to 3 turrets to fight against enemies. There are 5 stages 
 ![the shop](https://user-images.githubusercontent.com/101559700/167313240-77c4e603-ac04-4a64-879c-b21d0dc8083a.png)
 <br>Each turret has many upgrades<br>
 ![turret upgrades](https://user-images.githubusercontent.com/101559700/167313377-2ffafe5a-6ef7-44e6-bb1d-fb9abc11e3d1.png)
+<br>And turret skins
+![image](https://user-images.githubusercontent.com/101559700/167709506-9f83ee08-c216-41a7-9eb6-c27dffb5357a.png)
 <br>
 The 1st campaign has a few types of enemies: Fighters, Frigates, Cruisers, Cruisers and Suiciders.<br> 
 Each enemy type has its own weapons, logic and behaviour. Same with b osses.<br>
@@ -35,11 +37,40 @@ the player starts the game in the safe zone - in hyperdrive. There the player ca
 Heavily damaged modules have visual damages: scratches and plating damages. If a module is destroyed, all turrets on that module will stop working.
 ![image](https://user-images.githubusercontent.com/101559700/167660311-84cf2518-2dae-4b79-918f-5e44da83580a.png)
 ![image](https://user-images.githubusercontent.com/101559700/167660619-dd980db8-c1bd-46ab-859b-8a7a6792b160.png)
-
+<br>
+At this moment there are few enemy types in the 2nd campaign: fighters, 2 types of frigates and 2 types of cruisers. Frigates and Cruisers are dynamically generated and their health and firepower is adjusted. Enemy spawner is using dynamic difficulty adjustment. This mode can adapt itself to the player's skills so the difficulty of the game becomes dynamic. High difficulty waves will be set if the players use good strategy and low difficulty waves will be set if the players use bad strategy.
+![image](https://user-images.githubusercontent.com/101559700/167707555-9c6e6fca-026b-4762-af75-6cddf7a6e579.png)
+<br>
+Environment is also generated dynamically: asteroids, shipwrecks, nebula clouds.<br>
+2nd campaign has infinite rounds and is not finished yet. I want to add huge station-bosses, new enemies and more cool environment elements.
+![image](https://user-images.githubusercontent.com/101559700/167708640-d26dbb49-7352-4aa9-88fd-356cba810cc7.png)
 
 ## Multiplayer<br>
+Multiplayer mode is based on the Photon Multiplayer plugin. There are few game modes with completely different gameplay and with bot support.
+![image](https://user-images.githubusercontent.com/101559700/167709991-b4617f3e-d48c-437b-9b09-5ce716baed70.png)
 
 ### 1. Lost Aurora<br>
+This mode is for 1-4 players, bots are allowed. Game starts in hyperspace, player ship is flying on a mission to rescue Aurora ship somewhere in a cloud.
+![image](https://user-images.githubusercontent.com/101559700/167712395-27101d8e-9b63-49f6-8219-606b69ab1a25.png)
+<br>
+Player leaves hyperspace in front of huge nebula cloud
+![image](https://user-images.githubusercontent.com/101559700/167712547-9db9a8b6-63ec-49a8-bc64-f195977311ce.png)
+<br>
+There are 13 different turrets on the ship - from light turrets to heavy turrets. Different types of turrets are best used against certain groups of enemies.
+![image](https://user-images.githubusercontent.com/101559700/167712930-7617ab1d-e182-422e-8b68-ccd03725a06f.png)
+<br>
+The player needs to make his way through the waves of enemies to the place of the aurora signal.
+![image](https://user-images.githubusercontent.com/101559700/167713042-a931cb98-801d-4b31-a7cc-d6e44aff41c2.png)
+<br>
+When the player reaches the aurora, a rescue mission will begin. Several shuttles will be sent to transfer the crew to the player's ship.
+![image](https://user-images.githubusercontent.com/101559700/167713240-5fda55e7-2bc9-466e-8897-177c0eb98035.png)
+<br>
+During that rescue operation the player ship will be attacked by a new enemy type - scifi worms.
+![image](https://user-images.githubusercontent.com/101559700/167713574-eb681b9d-fd22-452b-ab75-0acf8730aac9.png)
+<br>
+After completing the rescue operation the player ship will set course to home. When the player leaves the cloud he will get into a trap where he will have to fight against a huge boss. If the player will defeat him, he will unlock a unique turret from the last killed boss module.
+![image](https://user-images.githubusercontent.com/101559700/167713851-3095ad6d-f6e3-4de5-93b3-3a76f58192d8.png)
+<br>
 
 ### 2. Warp Gates<br>
 
