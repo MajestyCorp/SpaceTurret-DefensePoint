@@ -73,7 +73,11 @@ After completing the rescue operation the player ship will set course to home. W
 <br>
 
 ### 2. Warp Gates<br>
+This mode supports 1-3 players, bots are allowed.<br>
+Players have to defend the station together against hordes of enemies. Star Gates will provide the enemy with limitless reinforcements. Players need to destroy these gates to interrupt enemy supply routes and clear off the remaining forces.
+![image](https://user-images.githubusercontent.com/101559700/167715220-8bade8f1-3517-4aab-b0d7-1189ea5873c2.png)
 
 ## Purchases<br>
+
 
 ## to be continued...
