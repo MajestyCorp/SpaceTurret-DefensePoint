@@ -34,6 +34,7 @@ the player starts the game in the safe zone - in hyperdrive. There the player ca
 <br>
 Heavily damaged modules have visual damages: scratches and plating damages. If a module is destroyed, all turrets on that module will stop working.
 ![image](https://user-images.githubusercontent.com/101559700/167660311-84cf2518-2dae-4b79-918f-5e44da83580a.png)
+![image](https://user-images.githubusercontent.com/101559700/167660619-dd980db8-c1bd-46ab-859b-8a7a6792b160.png)
 
 
 ## Multiplayer<br>
