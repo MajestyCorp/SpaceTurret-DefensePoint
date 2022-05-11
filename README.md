@@ -16,7 +16,7 @@ Player can control up to 3 turrets to fight against enemies. There are 5 stages 
 <br>And turret skins
 ![image](https://user-images.githubusercontent.com/101559700/167709506-9f83ee08-c216-41a7-9eb6-c27dffb5357a.png)
 <br>
-The 1st campaign has a few types of enemies: Fighters, Frigates, Cruisers, Cruisers and Suiciders.<br> 
+The 1st campaign has a few types of enemies: Fighters, Frigates, Cruisers, Carriers and Suiciders.<br> 
 Each enemy type has its own weapons, logic and behaviour. Same with b osses.<br>
 ![Zorg boss](https://user-images.githubusercontent.com/101559700/167636112-cd5e17be-786c-4da5-b18f-f2dbce3d3d5b.png)
 
