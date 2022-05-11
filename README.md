@@ -74,10 +74,20 @@ After completing the rescue operation the player ship will set course to home. W
 
 ### 2. Warp Gates<br>
 This mode supports 1-3 players, bots are allowed.<br>
-Players have to defend the station together against hordes of enemies. Star Gates will provide the enemy with limitless reinforcements. Players need to destroy these gates to interrupt enemy supply routes and clear off the remaining forces.
+Players have to defend the station together against hordes of enemies. Star Gates will provide the enemy with limitless reinforcements. Players need to destroy these gates to interrupt enemy supply routes and clear off the remaining forces. New enemies become stronger with every destroyed gate.
 ![image](https://user-images.githubusercontent.com/101559700/167715220-8bade8f1-3517-4aab-b0d7-1189ea5873c2.png)
 
 ## Purchases<br>
+This game supports InApp purchases. Players can purchase Crion Points and get unique badges. These badges will be shown with the player nickname. With badges the player removes ads, unlock new skins and new colors for skins.<br>
+Players can check what each badge will unlock.
+![image](https://user-images.githubusercontent.com/101559700/167783429-7ca19cfe-84f3-4f9e-ab28-071b0f0975aa.png)
+![image](https://user-images.githubusercontent.com/101559700/167783491-06524fb6-79dd-4ad2-9ae2-acbce2720ca9.png)
 
-
-## to be continued...
+## My roles on this project<br>
+1. C# programmer (UI, Game Logic, AI, Multiplayer and many more)
+2. Game designer (prepare game content, meshes, sprites, create levels, balance enemies)
+3. Shader programmer (optimizations and graphic improvements)
+4. Team leader (Initiator of different changes, discussions, quality check, team collaboration)
+5. Tester (test new features, game balance and many more)
+6. Google play publisher
+7. Support & development
