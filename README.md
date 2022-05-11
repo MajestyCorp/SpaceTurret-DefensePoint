@@ -59,7 +59,7 @@ Player leaves hyperspace in front of huge nebula cloud
 There are 13 different turrets on the ship - from light turrets to heavy turrets. Different types of turrets are best used against certain groups of enemies.
 ![image](https://user-images.githubusercontent.com/101559700/167712930-7617ab1d-e182-422e-8b68-ccd03725a06f.png)
 <br>
-The player needs to make his way through the waves of enemies to the place of the aurora signal.
+The player needs to make his way through the waves of enemies to the place of the aurora signal. Enemy spawner is using dynamic difficulty adjustment for best player experience.
 ![image](https://user-images.githubusercontent.com/101559700/167713042-a931cb98-801d-4b31-a7cc-d6e44aff41c2.png)
 <br>
 When the player reaches the aurora, a rescue mission will begin. Several shuttles will be sent to transfer the crew to the player's ship.
