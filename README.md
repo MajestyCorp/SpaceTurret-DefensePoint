@@ -43,8 +43,15 @@ At this moment there are few enemy types in the 2nd campaign: fighters, 2 types 
 ![image](https://user-images.githubusercontent.com/101559700/167707555-9c6e6fca-026b-4762-af75-6cddf7a6e579.png)
 <br>
 Environment is also generated dynamically: asteroids, shipwrecks, nebula clouds.<br>
-2nd campaign has infinite rounds and is not finished yet. I want to add huge station-bosses, new enemies and more cool environment elements.
+2nd campaign has infinite rounds and different environments.
 ![image](https://user-images.githubusercontent.com/101559700/167708640-d26dbb49-7352-4aa9-88fd-356cba810cc7.png)
+![image](https://github.com/user-attachments/assets/f946a06e-24be-4875-92c1-4f9187b818e3)
+
+### Huge Station Bosses
+Yeah, I did it! Procedurally generated modular station bosses every 10 rounds<br>
+![2023-08-19 01-33-03](https://github.com/user-attachments/assets/37e1dcab-55cf-44cf-8ee6-36e873cb02d6)
+![20231104_221324](https://github.com/user-attachments/assets/8fc011f5-f3f6-4cbe-a43c-34bf0cc7cb11)
+
 
 ## Multiplayer<br>
 Multiplayer mode is based on the Photon Multiplayer plugin. There are few game modes with completely different gameplay and with bot support.
