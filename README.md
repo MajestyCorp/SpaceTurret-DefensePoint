@@ -1,7 +1,7 @@
 # SpaceTurret-DefensePoint
 Space Turret is about player defense in space against hordes of enemies and bosses.<br>
 This game has 1st and 2nd campaign, few survival modes and few multiplayer modes.<br>
-![A few of my hundreds of scripts](https://github.com/MajestyCorp/SpaceTurret-DefensePoint/tree/main/Scripts)<br><br>
+[A few of my hundreds of scripts](https://github.com/MajestyCorp/SpaceTurret-DefensePoint/tree/main/Scripts)<br><br>
 ![game modes](https://user-images.githubusercontent.com/101559700/167312887-2c20c8e4-4bb4-4a02-938e-999a880732a0.png)
 <br>
 ## 1st campaign<br>
